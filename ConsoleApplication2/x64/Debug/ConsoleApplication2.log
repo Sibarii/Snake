@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\mauli\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(13,9): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
+  Snake.cpp
+  Code wird generiert...
+C:\Users\mauli\source\repos\ConsoleApplication2\ConsoleApplication2\Snake.cpp(51): warning C4715: "move": Nicht alle Codepfade geben einen Wert zurück.
+  ConsoleApplication2.vcxproj -> C:\Users\mauli\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
